@@ -47,13 +47,13 @@ A comprehensive offline mobile application for managing task reminders, built wi
 
 ## Demo Screenshots
 
-| <img src="demo/WhatsApp%20Image%202025-10-01%20at%201.27.08%20AM%20(1).jpeg" width="200"/> | <img src="demo/WhatsApp%20Image%202025-10-01%20at%201.27.08%20AM%20(2).jpeg" width="200"/> | <img src="demo/WhatsApp%20Image%202025-10-01%20at%201.27.08%20AM.jpeg" width="200"/> | <img src="demo/WhatsApp%20Image%202025-10-01%20at%201.27.09%20AM%20(1).jpeg" width="200"/> |
-| :--------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-|                         Screenshot 1                         |                       Screenshot 2                       |                      Screenshot 3                      |                   Screenshot 4                    |
+| <img src="demo/image_3.jpeg" width="200"/> | <img src="demo/image_1.jpeg" width="200"/> | <img src="demo/image_4.jpeg" width="200"/> | <img src="demo/image_7.jpeg" width="200"/> |
+| :----------------------------------------: | :----------------------------------------: | :----------------------------------------: | :----------------------------------------: |
+|         Square with Phone Lock         |              Dashboard Page                |               ADD TASK               |            Task Page Bottom             |
 
-| <img src="demo/WhatsApp%20Image%202025-10-01%20at%201.27.09%20AM.jpeg" width="200"/> | <img src="demo/WhatsApp%20Image%202025-10-01%20at%201.27.10%20AM%20(1).jpeg" width="200"/> | <img src="demo/WhatsApp%20Image%202025-10-01%20at%201.27.10%20AM.jpeg" width="200"/> |  |
-| :--------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-|                         Screenshot 5                         |                       Screenshot 6                       |                      Screenshot 7                      |                   |
+| <img src="demo/image_2.jpeg" width="200"/> | <img src="demo/image_5.jpeg" width="200"/> | <img src="demo/image_6.jpeg" width="200"/> |  |
+| :----------------------------------------: | :----------------------------------------: | :----------------------------------------: | :----------------------------------------: |
+|    Task Showing with Interactive Calendar View    |               History Log                  |              Notification                 |                   |
 
 ## Technologies Used
 
