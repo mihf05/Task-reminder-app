@@ -49,7 +49,7 @@ A comprehensive offline mobile application for managing task reminders, built wi
 
 | <img src="demo/image_3.jpeg" width="200"/> | <img src="demo/image_1.jpeg" width="200"/> | <img src="demo/image_4.jpeg" width="200"/> | <img src="demo/image_7.jpeg" width="200"/> |
 | :----------------------------------------: | :----------------------------------------: | :----------------------------------------: | :----------------------------------------: |
-|         Square with Phone Lock         |              Dashboard Page                |               ADD TASK               |            Task Page Bottom             |
+|         Secure with Your Phone Lock         |              Dashboard Page                |               ADD TASK               |            Task Page Bottom             |
 
 | <img src="demo/image_2.jpeg" width="200"/> | <img src="demo/image_5.jpeg" width="200"/> | <img src="demo/image_6.jpeg" width="200"/> |  |
 | :----------------------------------------: | :----------------------------------------: | :----------------------------------------: | :----------------------------------------: |
