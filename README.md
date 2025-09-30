@@ -26,8 +26,8 @@ A comprehensive offline mobile application for managing task reminders, built wi
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd medicine-reminder-app
+   git clone https://github.com/mihf05/Task-reminder-app.git
+   cd Task-reminder-app
    ```
 
 2. Install dependencies:
@@ -47,15 +47,11 @@ A comprehensive offline mobile application for managing task reminders, built wi
 
 ## Demo Screenshots
 
-| Screenshot Title | Image |
-|------------------|-------|
-| WhatsApp Image 2025-10-01 at 1.27.08 AM | ![WhatsApp Image 2025-10-01 at 1.27.08 AM](demo/WhatsApp%20Image%202025-10-01%20at%201.27.08%20AM.jpeg) |
-| WhatsApp Image 2025-10-01 at 1.27.08 AM (1) | ![WhatsApp Image 2025-10-01 at 1.27.08 AM (1)](demo/WhatsApp%20Image%202025-10-01%20at%201.27.08%20AM%20(1).jpeg) |
-| WhatsApp Image 2025-10-01 at 1.27.08 AM (2) | ![WhatsApp Image 2025-10-01 at 1.27.08 AM (2)](demo/WhatsApp%20Image%202025-10-01%20at%201.27.08%20AM%20(2).jpeg) |
-| WhatsApp Image 2025-10-01 at 1.27.09 AM | ![WhatsApp Image 2025-10-01 at 1.27.09 AM](demo/WhatsApp%20Image%202025-10-01%20at%201.27.09%20AM.jpeg) |
-| WhatsApp Image 2025-10-01 at 1.27.09 AM (1) | ![WhatsApp Image 2025-10-01 at 1.27.09 AM (1)](demo/WhatsApp%20Image%202025-10-01%20at%201.27.09%20AM%20(1).jpeg) |
-| WhatsApp Image 2025-10-01 at 1.27.10 AM | ![WhatsApp Image 2025-10-01 at 1.27.10 AM](demo/WhatsApp%20Image%202025-10-01%20at%201.27.10%20AM.jpeg) |
-| WhatsApp Image 2025-10-01 at 1.27.10 AM (1) | ![WhatsApp Image 2025-10-01 at 1.27.10 AM (1)](demo/WhatsApp%20Image%202025-10-01%20at%201.27.10%20AM%20(1).jpeg) |
+![](demo/WhatsApp%20Image%202025-10-01%20at%201.27.08%20AM%20(1).jpeg) ![](demo/WhatsApp%20Image%202025-10-01%20at%201.27.08%20AM%20(2).jpeg) ![](demo/WhatsApp%20Image%202025-10-01%20at%201.27.08%20AM.jpeg)
+
+![](demo/WhatsApp%20Image%202025-10-01%20at%201.27.09%20AM%20(1).jpeg) ![](demo/WhatsApp%20Image%202025-10-01%20at%201.27.09%20AM.jpeg) ![](demo/WhatsApp%20Image%202025-10-01%20at%201.27.10%20AM%20(1).jpeg)
+
+![](demo/WhatsApp%20Image%202025-10-01%20at%201.27.10%20AM.jpeg)
 
 ## Technologies Used
 
