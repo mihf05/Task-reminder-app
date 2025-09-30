@@ -47,11 +47,13 @@ A comprehensive offline mobile application for managing task reminders, built wi
 
 ## Demo Screenshots
 
-![](demo/WhatsApp%20Image%202025-10-01%20at%201.27.08%20AM%20(1).jpeg) ![](demo/WhatsApp%20Image%202025-10-01%20at%201.27.08%20AM%20(2).jpeg) ![](demo/WhatsApp%20Image%202025-10-01%20at%201.27.08%20AM.jpeg)
+| <img src="demo/WhatsApp%20Image%202025-10-01%20at%201.27.08%20AM%20(1).jpeg" width="200"/> | <img src="demo/WhatsApp%20Image%202025-10-01%20at%201.27.08%20AM%20(2).jpeg" width="200"/> | <img src="demo/WhatsApp%20Image%202025-10-01%20at%201.27.08%20AM.jpeg" width="200"/> | <img src="demo/WhatsApp%20Image%202025-10-01%20at%201.27.09%20AM%20(1).jpeg" width="200"/> |
+| :--------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
+|                         Screenshot 1                         |                       Screenshot 2                       |                      Screenshot 3                      |                   Screenshot 4                    |
 
-![](demo/WhatsApp%20Image%202025-10-01%20at%201.27.09%20AM%20(1).jpeg) ![](demo/WhatsApp%20Image%202025-10-01%20at%201.27.09%20AM.jpeg) ![](demo/WhatsApp%20Image%202025-10-01%20at%201.27.10%20AM%20(1).jpeg)
-
-![](demo/WhatsApp%20Image%202025-10-01%20at%201.27.10%20AM.jpeg)
+| <img src="demo/WhatsApp%20Image%202025-10-01%20at%201.27.09%20AM.jpeg" width="200"/> | <img src="demo/WhatsApp%20Image%202025-10-01%20at%201.27.10%20AM%20(1).jpeg" width="200"/> | <img src="demo/WhatsApp%20Image%202025-10-01%20at%201.27.10%20AM.jpeg" width="200"/> |  |
+| :--------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
+|                         Screenshot 5                         |                       Screenshot 6                       |                      Screenshot 7                      |                   |
 
 ## Technologies Used
 
