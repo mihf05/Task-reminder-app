@@ -1,50 +1,74 @@
-# Welcome to your Expo app 👋
+# Task Reminder App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A comprehensive offline mobile application for managing task reminders, built with React Native and Expo.
 
-## Get started
+## Features
 
-1. Install dependencies
+- **Offline Functionality**: Works completely offline, storing all data locally on your device
+- **Task Reminders**: Set up reminders for your tasks with customizable schedules
+- **Calendar View**: View your task schedule in a calendar format
+- **History Tracking**: Keep track of completed tasks and missed deadlines
+- **Refill Management**: Monitor and manage recurring task refills
+- **Task Management**: Add and organize your tasks
+- **Notifications**: Receive timely reminders for your tasks
+- **Secure Storage**: All data is stored securely using device storage
+- **Cross-Platform**: Runs on iOS and Android devices
 
+## How to Run the Project
+
+### Prerequisites
+
+- Node.js (version 18 or higher)
+- npm or yarn
+- Expo CLI
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd medicine-reminder-app
+   ```
+
+2. Install dependencies:
    ```bash
    npm install
    ```
 
-2. Start the app
-
+3. Start the development server:
    ```bash
-    npx expo start
+   npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+4. Run on your device:
+   - For Android: `npm run android`
+   - For iOS: `npm run ios`
+   - For Web: `npm run web`
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Demo Screenshots
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+| Screenshot Title | Image |
+|------------------|-------|
+| WhatsApp Image 2025-10-01 at 1.27.08 AM | ![WhatsApp Image 2025-10-01 at 1.27.08 AM](demo/WhatsApp%20Image%202025-10-01%20at%201.27.08%20AM.jpeg) |
+| WhatsApp Image 2025-10-01 at 1.27.08 AM (1) | ![WhatsApp Image 2025-10-01 at 1.27.08 AM (1)](demo/WhatsApp%20Image%202025-10-01%20at%201.27.08%20AM%20(1).jpeg) |
+| WhatsApp Image 2025-10-01 at 1.27.08 AM (2) | ![WhatsApp Image 2025-10-01 at 1.27.08 AM (2)](demo/WhatsApp%20Image%202025-10-01%20at%201.27.08%20AM%20(2).jpeg) |
+| WhatsApp Image 2025-10-01 at 1.27.09 AM | ![WhatsApp Image 2025-10-01 at 1.27.09 AM](demo/WhatsApp%20Image%202025-10-01%20at%201.27.09%20AM.jpeg) |
+| WhatsApp Image 2025-10-01 at 1.27.09 AM (1) | ![WhatsApp Image 2025-10-01 at 1.27.09 AM (1)](demo/WhatsApp%20Image%202025-10-01%20at%201.27.09%20AM%20(1).jpeg) |
+| WhatsApp Image 2025-10-01 at 1.27.10 AM | ![WhatsApp Image 2025-10-01 at 1.27.10 AM](demo/WhatsApp%20Image%202025-10-01%20at%201.27.10%20AM.jpeg) |
+| WhatsApp Image 2025-10-01 at 1.27.10 AM (1) | ![WhatsApp Image 2025-10-01 at 1.27.10 AM (1)](demo/WhatsApp%20Image%202025-10-01%20at%201.27.10%20AM%20(1).jpeg) |
 
-## Get a fresh project
+## Technologies Used
 
-When you're ready, run:
+- React Native
+- Expo
+- TypeScript
+- AsyncStorage for local data persistence
+- Expo Notifications for reminders
 
-```bash
-npm run reset-project
-```
+## Contributing
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Test thoroughly
+5. Submit a pull request
